@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "Sevruk-PageControl"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "💥 Beautiful, animated and highly customizable UIPageControl alternative for iOS."
   s.homepage     = "https://github.com/sevruk-dev/page-control"
   s.license      = "MIT"
